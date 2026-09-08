@@ -1,7 +1,5 @@
 LUMINOL
 
-Barni, F., Lewis, S. W., Berti, A., Miskelly, G. M., & Lago, G. (2007). Forensic application of luminol: A review. Analytical and Bioanalytical Chemistry, 388(1), 905–913. https://doi.org/10.1007/s00216-007-1297-7
-
 Encyclopædia Britannica. (2024). Luminol: Definition, characteristics, chemiluminescence, & blood detection. Encyclopædia Britannica. https://www.britannica.com/science/luminol
 
 Khan, P., Idrees, D., Moxley, M. A., Corbett, J. A., Ahmad, F., von Goetz, F., & Hassan, M. I. (2014). Luminol-based chemiluminescent signals: Clinical and non-clinical application and future uses. Applied Biochemistry and Biotechnology, 173(2), 333–355. https://doi.org/10.1007/s12010-014-0850-1
@@ -10,13 +8,13 @@ National Center for Biotechnology Information. (2026). PubChem compound summary 
 
 VIOLACEIN
 
-Durán, N., Justo, G. Z., Ferreira, C. V., Melo, P. S., Cordi, L., & Martins, D. (2007). Violacein: Properties and applications of a true versatile compound. Critical Reviews in Microbiology, 33(2), 127–146. https://doi.org/10.1080/10408410701364606
+Almeida, A. C., & Durán, N. (2021). Evaluation of the anti-proliferative activity of violacein, a natural compound. Oncology Reports, 47(3), Article 53. https://pmc.ncbi.nlm.nih.gov/articles/PMC8895484/
+
+Choi, S. Y., Yoon, K.-H., Lee, J. I., & Mitchell, R. J. (2015). Violacein: Properties and production of a versatile bacterial pigment. BioMed Research International, 2015, Article 465056. https://pmc.ncbi.nlm.nih.gov/articles/PMC4538413/
+
+Ferreira, C. V., Bos, C. L., Versteeg, H. H., Justo, G. Z., Durán, N., & Peppelenbosch, M. P. (2003). Violacein extracted from Chromobacterium violaceum inhibits protein tyrosine kinase activity. Blood, 101(7), 2777–2780. https://pubmed.ncbi.nlm.nih.gov/19273690/
 
 National Center for Biotechnology Information. (2026). PubChem compound summary for CID 9928030, Violacein. PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/9928030
-
-Venegas, B., & Durán, N. (2022). Violacein: A bacterial secondary metabolite with multiple biological applications. World Journal of Microbiology and Biotechnology, 38(11), Article 205. https://doi.org/10.1007/s11274-022-03386-z
-
-Yilmaz, M., & Taskin, B. (2020). Antibacterial and anticancer activities of violacein extracted from Chromobacterium violaceum. Journal of Research in Pharmacy, 24(6), 920–929. https://doi.org/10.35333/jrp.2020.254
 
 TETRODOTOXIN (TTX)
 
